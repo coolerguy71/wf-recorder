@@ -41,6 +41,13 @@ Fedora users can install wf-recorder from the official repos
 sudo dnf install wf-recorder
 ```
 
+## FreeBSD
+
+FreeBSD users can install wf-recorder from the official ports tree
+```
+sudo dnf install wf-recorder
+```
+
 ## Gentoo Linux
 
 Gentoo users can install wf-recorder from the official (`::gentoo`) repository.
