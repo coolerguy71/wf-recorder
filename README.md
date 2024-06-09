@@ -45,7 +45,7 @@ sudo dnf install wf-recorder
 
 FreeBSD users can install wf-recorder from the official ports tree
 ```
-sudo dnf install wf-recorder
+sudo pkg install wf-recorder
 ```
 
 ## Gentoo Linux
